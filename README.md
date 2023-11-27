@@ -1,0 +1,2 @@
+# Simulation-of-Nanobiosensor-Response-to-Time-dependent-Biomarker-Concentration
+—This project presents an advanced simulation of nanobiosensor responses to a time-dependent biomarker concentration profile. The study incorporates affinity and catalytic nanobiosensors with gold and silver nanomaterials, offering detailed insights into response patterns and signal changes under varying biomarker concentrations.
