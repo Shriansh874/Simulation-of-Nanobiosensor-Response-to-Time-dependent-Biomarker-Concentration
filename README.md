@@ -85,7 +85,7 @@ response graph elucidates nuanced aspects of their behavior.
 Understanding the interplay of binding affinities, nanomaterial characteristics, and biomarker dynamics is essential for
 optimizing nanobiosensor design and performance.
 # CONCLUSION
-This paper presented an advanced simulation of nanobiosensor response to a time-dependent biomarker concentration profile. The methodology involved defining temporal dynamics,
+This project presented an advanced simulation of nanobiosensor response to a time-dependent biomarker concentration profile. The methodology involved defining temporal dynamics,
 configuring nanobiosensor characteristics, and conducting an
 iterative simulation for sensitivity and specificity evaluation.
 The results, visualized in Figure 4, provide detailed insights
